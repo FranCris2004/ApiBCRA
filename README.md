@@ -5,3 +5,7 @@ El fin de este proyecto es el aprender a realizar request a una API desde python
 ## Uso
 Para que el script se ejecute correctamente debes tener instalado pandas y matplotlib.
 Ademas debes crear un archivo .token en el directorio del archivo main.py el cual debe contener un token de api valido, que se genera registrandose en: https://www.estadisticasbcra.com/api/registracion 
+
+## Gráfico de salida
+
+![un gráfico del cambio de dolares a pesos](./Dolar.png)
